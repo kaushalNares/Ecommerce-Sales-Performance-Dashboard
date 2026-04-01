@@ -41,7 +41,8 @@ This project presents an interactive **Sales Performance Dashboard** built using
 
 ---
 
-![Dashboard](sales-performance-customer-insights-dashboard.png)
+![Dashboard](sales-performance-customer-insights-dashboard.png.png)
+
 
 
 
